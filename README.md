@@ -85,6 +85,7 @@ Steps:
 - Undefended under attack: **88.8%**
 - Defended under attack: **89.8%**
 - Improvement: **+1.0%**
+- you can look for the notebook to see the trials&results
 
 #### Key Findings from Parameter Tuning
 
@@ -158,6 +159,8 @@ matplotlib
 ### Author
 
 Maram - AI Security Course Project
+
+### Acknowledgments
 
 - SMS Spam Collection dataset
 - WordNet for synonym generation
