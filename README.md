@@ -43,7 +43,7 @@ X_adv = X + ε · sign(∇_X L(θ, X, y))
 3. Apply perturbation by adding/subtracting ε from each feature
 4. Result pushes the model toward a wrong prediction
 
-> **Note:** Unlike Mad-Lib (works on raw text), FGSM works on TF-IDF vector representation and perturbs numerical values , also MIDLIB works in inference, FGSM works on corrupting training data 
+> **Note:** Unlike Mad-Lib (works on raw text), FGSM works on TF-IDF vector representation and perturbs numerical values
 
 ---
 
